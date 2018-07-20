@@ -15,4 +15,6 @@ A simple genetic algorithm (with many assumptions and only one constraint!) is i
 1. The mentioned stocks were a part of Nifty 50 throughout the given time-frame, and trading was not halted for these
 2. The weightage of each stock in portfolio will only be in accordance with the returns. No other factors such as risk (or standard deviation), dividend payouts etc have been considered
 
+Please ensure you have 'jupyter notebook', and other python libraries 'pandas' and 'numpy' installed on your systems. You can run jupyter notebook using anaconda environment (https://www.anaconda.com/download/). To install python libraries, use 'pip'. 
+
 Note: The comments are included in code for understandability. This example does not, in any manner, recommends purchase of the mentioned, or any other stocks. This is just an example to demonstrate power and applications of genetic algorithms.  
