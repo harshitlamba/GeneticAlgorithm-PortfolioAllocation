@@ -14,6 +14,7 @@ in a weighted manner, with a higher for for more recent 'n-month' returns
 A simple genetic algorithm (with many assumptions and only one constraint!) is implemented to create a portfolio with the mentioned stocks. A few of the assumptions are: 
 1. The mentioned stocks were a part of Nifty 50 throughout the given time-frame, and trading was not halted for these
 2. The weightage of each stock in portfolio will only be in accordance with the returns. No other factors such as risk (or standard deviation), dividend payouts etc have been considered
+3. Th weightage given to 'n-month' return is based on time series concept - that more recent price levels should be given higher weightage (though we can probably make it better by using exponential smoothing!)
 
 Please ensure you have 'jupyter notebook', and other python libraries 'pandas' and 'numpy' installed on your systems. You can run jupyter notebook using anaconda environment (https://www.anaconda.com/download/). To install python libraries, use 'pip'. 
 
