@@ -1,6 +1,6 @@
 # Genetic-Algorithm---Portfolio-Allocation
 
-This repository contains a very simple genetic algorithm approach for creating a large-cap equity portfolio from Nifty 50 stocks
+This repository contains a very simple genetic algorithm approach for creating a large-cap equity portfolio from Sensex BSE stocks
 
 Stocks with significant market capitalization are chosen, each one from a different sector - HDFC Bank from banking, ITC from FMCG
 (though involved in cigarettes business significantly!), Mahindra and Mahindra from auto, L&T from infrastructure, TCS from IT
