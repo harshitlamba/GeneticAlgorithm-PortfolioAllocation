@@ -1,4 +1,4 @@
-# Genetic-Algorithm-Portfolio Allocation
+# Genetic Algorithm-Portfolio Allocation
 
 This repository contains a very simple genetic algorithm approach for creating a large-cap equity portfolio from Sensex BSE stocks
 
